@@ -15,7 +15,8 @@
       "file-types": [
         "hcl",
         "tf",
-        "tfvars"
+        "tfvars",
+        "terraform-vars"
       ]
     }
   ]
